@@ -1,5 +1,4 @@
 import java.awt.*;
-
 import javax.swing.JFrame;
 class snake_game{
     public static void main(String[] args) {
