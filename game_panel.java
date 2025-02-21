@@ -6,7 +6,6 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.util.Random;
 
-
 public class game_panel extends JPanel implements ActionListener , KeyListener
 {
 
